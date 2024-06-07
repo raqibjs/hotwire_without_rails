@@ -1,0 +1,1 @@
+# Hotwire without Rails
